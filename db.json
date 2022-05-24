@@ -1,0 +1,49 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "FirstName": "Baba",
+      "LastName": "Kalandhar",
+      "Gender": "male",
+      "BirthDate": "2022-04-27",
+      "Address": "Ambed",
+      "Country": "Russia",
+      "State": "Ohio",
+      "City": "Cincinatti",
+      "Pincode": 0,
+      "Mobile": 9876543210,
+      "Email": "baba@gmail.com",
+      "Comments": ""
+    },
+    {
+      "id": 4,
+      "FirstName": "Pawan kalyan",
+      "LastName": "Konedela",
+      "Gender": "male",
+      "BirthDate": "2022-05-10",
+      "Address": "Palkollu",
+      "Country": "India",
+      "State": "Belav",
+      "City": "Cincinatti",
+      "Pincode": 789654,
+      "Mobile": 9087654321,
+      "Email": "pawan@gmail.com",
+      "Comments": "I am a politician, actor, producer"
+    },
+    {
+      "id": 5,
+      "FirstName": "MaheshBabu",
+      "LastName": "Gattamaneni",
+      "Gender": "male",
+      "BirthDate": "2022-04-25",
+      "Address": "Krishna",
+      "Country": "America",
+      "State": "Ohio",
+      "City": "Cincinatti",
+      "Pincode": 98765,
+      "Mobile": 9085672314,
+      "Email": "mahesh@gmail.com",
+      "Comments": "I am most handsome guy.!"
+    }
+  ]
+}
